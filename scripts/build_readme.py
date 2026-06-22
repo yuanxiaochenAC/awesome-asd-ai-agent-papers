@@ -19,13 +19,26 @@ def load_items() -> list[dict[str, object]]:
     return json.loads(DATA_PATH.read_text(encoding="utf-8"))
 
 
+def format_access(item: dict[str, object]) -> str:
+    access = [f"[Paper]({item['paper_url']})"]
+    download_url = item.get("download_url")
+    if download_url:
+        access.append(f"[PDF]({download_url})")
+    return " / ".join(access)
+
+
 def render_section(items: list[dict[str, object]], section_key: str, title: str) -> list[str]:
-    lines = [f"## {title}", ""]
+    lines = [
+        f"## {title}",
+        "",
+        "| Paper | Year | Source | Access | Why It Matters |",
+        "| --- | --- | --- | --- | --- |",
+    ]
     section_items = [item for item in items if item["section"] == section_key]
     for item in sorted(section_items, key=lambda row: (row["year"], row["title"]), reverse=True):
+        title_cell = f"[{item['title']}]({item['paper_url']})"
         lines.append(
-            f"- [{item['title']}]({item['paper_url']})"
-            f" ({item['source']}, {item['year']}): {item['note']}"
+            f"| {title_cell} | {item['year']} | {item['source']} | {format_access(item)} | {item['note']} |"
         )
     lines.append("")
     return lines
