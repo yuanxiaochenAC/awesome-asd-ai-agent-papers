@@ -3,57 +3,127 @@
     "section": "agent_applications",
     "title": "From Synthesis to Clinical Assistance: A Strategy-Aware Agent Framework for Autism Intervention based on Real Clinical Dataset",
     "paper_url": "https://arxiv.org/abs/2605.02916",
+    "download_url": "https://arxiv.org/pdf/2605.02916.pdf",
     "year": 2026,
     "source": "arXiv",
-    "note": "Strategy-aware ASD intervention framework with DoctorAgent and ChildAgent for ABA-aligned dialogue synthesis and clinical decision support."
+    "note": "Strategy-aware autism intervention framework with specialized doctor and child agents for clinically grounded dialogue synthesis."
   },
   {
     "section": "agent_applications",
-    "title": "SocialWise: LLM-Agentic Conversation Therapy for Individuals with Autism",
-    "paper_url": "https://arxiv.org/abs/2604.15347",
+    "title": "A Proactive Multi-Agent Dialogue Framework for Assessing Social Language Disorder Traits in Autism",
+    "paper_url": "https://arxiv.org/abs/2605.22993v1",
+    "download_url": "https://arxiv.org/pdf/2605.22993v1.pdf",
     "year": 2026,
     "source": "arXiv",
-    "note": "Conversation-therapy chatbot for autistic users with role-play, knowledge retrieval, and feedback agents."
+    "note": "Doctor and patient agents improve diagnostic coverage and efficiency for autism-related social language assessment."
+  },
+  {
+    "section": "agent_applications",
+    "title": "SocialWise: LLM-Agentic Conversation Therapy for Individuals with Autism Spectrum Disorder to Enhance Communication Skills",
+    "paper_url": "https://arxiv.org/abs/2604.15347v1",
+    "download_url": "https://arxiv.org/pdf/2604.15347v1.pdf",
+    "year": 2026,
+    "source": "arXiv",
+    "note": "Browser-based conversation therapy system with LLM role-play, retrieval, and structured communication feedback."
+  },
+  {
+    "section": "agent_applications",
+    "title": "InterventionLens: A Multi-Agent Framework for Detecting ASD Intervention Strategies in Parent-Child Shared Reading",
+    "paper_url": "https://arxiv.org/abs/2603.13710v1",
+    "download_url": "https://arxiv.org/pdf/2603.13710v1.pdf",
+    "year": 2026,
+    "source": "arXiv",
+    "note": "Multi-agent video analysis framework for recognizing caregiver intervention strategies in home-based ASD reading sessions."
   },
   {
     "section": "agent_applications",
     "title": "NeuroWise: A Multi-Agent LLM Glass-Box System for Practicing Double-Empathy Communication with Autistic Partners",
     "paper_url": "https://arxiv.org/abs/2602.18962",
+    "download_url": "https://arxiv.org/pdf/2602.18962.pdf",
     "year": 2026,
     "source": "arXiv",
-    "note": "Multi-agent LLM system for practicing autism-aware communication grounded in the double-empathy framework."
+    "note": "Glass-box multi-agent communication training system grounded in the double-empathy framework."
+  },
+  {
+    "section": "agent_applications",
+    "title": "Human-mediated Large Language Models for Robotic Intervention in Children with Autism Spectrum Disorders",
+    "paper_url": "https://arxiv.org/abs/2402.00260v3",
+    "download_url": "https://arxiv.org/pdf/2402.00260v3.pdf",
+    "year": 2024,
+    "source": "arXiv",
+    "note": "LLM-powered robot intervention pipeline for perspective-taking training in children with autism."
+  },
+  {
+    "section": "agent_applications",
+    "title": "A Virtual Conversational Agent for Teens with Autism: Experimental Results and Design Lessons",
+    "paper_url": "https://arxiv.org/abs/1811.03046v3",
+    "download_url": "https://arxiv.org/pdf/1811.03046v3.pdf",
+    "year": 2018,
+    "source": "arXiv",
+    "note": "Early but still useful virtual-agent benchmark for private social-skills practice and feedback."
   },
   {
     "section": "llm_autism",
     "title": "Exploring Implicit Perspectives on Autism in Large Language Models Through Multi-Agent Simulations",
     "paper_url": "https://arxiv.org/abs/2601.15437",
+    "download_url": "https://arxiv.org/pdf/2601.15437.pdf",
     "year": 2026,
     "source": "arXiv",
-    "note": "Uses multi-agent simulations to study implicit autism-related bias and assumptions in LLM behavior."
+    "note": "Multi-agent simulations expose how LLMs implicitly frame autistic and non-autistic social interaction."
+  },
+  {
+    "section": "llm_autism",
+    "title": "When Machines Get It Wrong: Large Language Models Perpetuate Autism Myths More Than Humans Do",
+    "paper_url": "https://arxiv.org/abs/2601.22893v3",
+    "download_url": "https://arxiv.org/pdf/2601.22893v3.pdf",
+    "year": 2026,
+    "source": "arXiv",
+    "note": "Directly measures autism-myth endorsement and finds major knowledge fidelity gaps in frontier LLMs."
   },
   {
     "section": "llm_autism",
     "title": "Affordances and Risks of ChatGPT to Autistic Users",
     "paper_url": "https://arxiv.org/abs/2601.17946",
+    "download_url": "https://arxiv.org/pdf/2601.17946.pdf",
     "year": 2026,
     "source": "arXiv",
-    "note": "Examines utility and risk patterns of ChatGPT for autistic users from real-world use narratives."
+    "note": "Examines the practical benefits and risks autistic users report when using ChatGPT in daily life."
   },
   {
     "section": "llm_autism",
-    "title": "When Machines Get It Wrong: Large Language Models Perpetuate Autism Myths More Than Humans Do",
-    "paper_url": "https://arxiv.org/abs/2601.22893",
+    "title": "\"Are we writing an advice column for Spock here?\" Understanding Stereotypes in AI Advice for Autistic Users",
+    "paper_url": "https://arxiv.org/abs/2601.12690v1",
+    "download_url": "https://arxiv.org/pdf/2601.12690v1.pdf",
     "year": 2026,
     "source": "arXiv",
-    "note": "Benchmarks autism-myth endorsement and shows LLMs underperform humans on autism knowledge fidelity."
+    "note": "Large-scale audit of how disclosure of autism changes LLM advice and can trigger stereotyped recommendations."
   },
   {
-    "section": "medical_ai",
-    "title": "Accuracy of Autism-Related TikTok Information in Italian: A Comparison Between Human Raters and Large Language Models",
-    "paper_url": "https://pubmed.ncbi.nlm.nih.gov/41706307/",
+    "section": "llm_autism",
+    "title": "Large Language Models as Simulative Agents for Neurodivergent Adult Psychometric Profiles",
+    "paper_url": "https://arxiv.org/abs/2601.15319v1",
+    "download_url": "https://arxiv.org/pdf/2601.15319v1.pdf",
     "year": 2026,
-    "source": "PubMed",
-    "note": "Compares human and LLM assessment quality for autism-related short-video information."
+    "source": "arXiv",
+    "note": "Tests whether LLMs can simulate neurodivergent psychometric responses with useful fidelity."
+  },
+  {
+    "section": "llm_autism",
+    "title": "NeuroBridge: Using Generative AI to Bridge Cross-neurotype Communication Differences through Neurotypical Perspective-taking",
+    "paper_url": "https://arxiv.org/abs/2509.23434v1",
+    "download_url": "https://arxiv.org/pdf/2509.23434v1.pdf",
+    "year": 2025,
+    "source": "arXiv",
+    "note": "Generative AI platform for helping neurotypical users experience and reflect on autistic communication styles."
+  },
+  {
+    "section": "llm_autism",
+    "title": "NeuroMambaLLM: Dynamic Graph Learning of fMRI Functional Connectivity in Autistic Brains Using Mamba and Language Model Reasoning",
+    "paper_url": "https://arxiv.org/abs/2602.13770v3",
+    "download_url": "https://arxiv.org/pdf/2602.13770v3.pdf",
+    "year": 2026,
+    "source": "arXiv",
+    "note": "Combines dynamic brain connectivity modeling with language-model reasoning for autism-related neuroimaging analysis."
   },
   {
     "section": "medical_ai",
@@ -61,15 +131,23 @@
     "paper_url": "https://pubmed.ncbi.nlm.nih.gov/41797112/",
     "year": 2026,
     "source": "PubMed",
-    "note": "Discusses multimodal early ASD detection and the role of LLMs in intervention planning."
+    "note": "Combines multimodal early detection with LLM-assisted planning for downstream intervention decisions."
   },
   {
     "section": "medical_ai",
-    "title": "A PATE-to-MedPrompt System for Autism Detection",
-    "paper_url": "https://pubmed.ncbi.nlm.nih.gov/42121994/",
+    "title": "Safety-Constrained Agentic AI for Autism Screening: A Multimodal, Clinician-Guided Architecture",
+    "paper_url": "https://pubmed.ncbi.nlm.nih.gov/42306396/",
     "year": 2026,
     "source": "PubMed",
-    "note": "LLM-based autism detection pipeline using symptom narratives and medical prompting."
+    "note": "Clinician-guided agentic architecture aimed at safer multimodal autism screening workflows."
+  },
+  {
+    "section": "medical_ai",
+    "title": "ScreeningPaL: LLM-NLP Enabled Early Autism Detection Method from Caregiver's Free-Text Input",
+    "paper_url": "https://pubmed.ncbi.nlm.nih.gov/42317820/",
+    "year": 2026,
+    "source": "PubMed",
+    "note": "Uses free-text caregiver descriptions with LLM-NLP methods to support early autism detection."
   },
   {
     "section": "medical_ai",
@@ -77,7 +155,23 @@
     "paper_url": "https://pubmed.ncbi.nlm.nih.gov/41802236/",
     "year": 2026,
     "source": "PubMed",
-    "note": "Explores a culturally adapted chatbot intervention for parents of autistic children."
+    "note": "Chatbot intervention study focused on supporting parents of autistic children."
+  },
+  {
+    "section": "medical_ai",
+    "title": "Accuracy of Autism-Related TikTok Information in Italian: A Comparison Between Human Raters and Large Language Models",
+    "paper_url": "https://pubmed.ncbi.nlm.nih.gov/41706307/",
+    "year": 2026,
+    "source": "PubMed",
+    "note": "Benchmarks whether human reviewers and LLMs can reliably judge autism-related health information quality."
+  },
+  {
+    "section": "medical_ai",
+    "title": "A PATE-to-MedPrompt System for Autism Detection",
+    "paper_url": "https://pubmed.ncbi.nlm.nih.gov/42121994/",
+    "year": 2026,
+    "source": "PubMed",
+    "note": "Medical prompting pipeline for autism detection from symptom-centered narratives."
   },
   {
     "section": "medical_ai",
@@ -85,6 +179,38 @@
     "paper_url": "https://pubmed.ncbi.nlm.nih.gov/41696837/",
     "year": 2026,
     "source": "PubMed",
-    "note": "Computational analysis pipeline for ASD detection from parents' speech patterns."
+    "note": "Computational speech analysis approach for autism screening using parental-language signals."
+  },
+  {
+    "section": "medical_ai",
+    "title": "Parents' perspectives on the use of artificial intelligence chatbots to promote physical activity among individuals with autism spectrum disorder",
+    "paper_url": "https://pubmed.ncbi.nlm.nih.gov/42301801/",
+    "year": 2026,
+    "source": "PubMed",
+    "note": "Useful applied paper on caregiver acceptance of AI chatbots for autism-support routines."
+  },
+  {
+    "section": "medical_ai",
+    "title": "Functional near-infrared spectroscopy-based machine learning techniques for autism spectrum disorder diagnosis: a systematic review and meta-analysis",
+    "paper_url": "https://pubmed.ncbi.nlm.nih.gov/42296703/",
+    "year": 2026,
+    "source": "PubMed",
+    "note": "Meta-analysis of machine-learning diagnosis pipelines using fNIRS for ASD detection."
+  },
+  {
+    "section": "medical_ai",
+    "title": "Multimodal behavioral analysis of child play interactions for early detection of Autism Spectrum Disorder",
+    "paper_url": "https://pubmed.ncbi.nlm.nih.gov/42263387/",
+    "year": 2026,
+    "source": "PubMed",
+    "note": "Recent multimodal behavioral study for early ASD detection in naturalistic play settings."
+  },
+  {
+    "section": "medical_ai",
+    "title": "Machine Learning Algorithms for Detection of Autism Spectrum Disorders in Early Childhood: A Scoping Review",
+    "paper_url": "https://pubmed.ncbi.nlm.nih.gov/41910220/",
+    "year": 2026,
+    "source": "PubMed",
+    "note": "Broad review of machine-learning approaches for early-childhood autism detection."
   }
 ]
