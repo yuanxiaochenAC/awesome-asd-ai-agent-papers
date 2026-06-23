@@ -6,7 +6,8 @@
     "download_url": "https://arxiv.org/pdf/2605.02916.pdf",
     "year": 2026,
     "source": "arXiv",
-    "note": "Strategy-aware autism intervention framework with specialized doctor and child agents for clinically grounded dialogue synthesis."
+    "note": "Strategy-aware autism intervention framework with specialized doctor and child agents for clinically grounded dialogue synthesis.",
+    "category": "ASD-specific"
   },
   {
     "section": "agent_applications",
@@ -15,7 +16,8 @@
     "download_url": "https://arxiv.org/pdf/2605.22993v1.pdf",
     "year": 2026,
     "source": "arXiv",
-    "note": "Doctor and patient agents improve diagnostic coverage and efficiency for autism-related social language assessment."
+    "note": "Doctor and patient agents improve diagnostic coverage and efficiency for autism-related social language assessment.",
+    "category": "ASD-specific"
   },
   {
     "section": "agent_applications",
@@ -24,7 +26,8 @@
     "download_url": "https://arxiv.org/pdf/2604.15347v1.pdf",
     "year": 2026,
     "source": "arXiv",
-    "note": "Browser-based conversation therapy system with LLM role-play, retrieval, and structured communication feedback."
+    "note": "Browser-based conversation therapy system with LLM role-play, retrieval, and structured communication feedback.",
+    "category": "ASD-specific"
   },
   {
     "section": "agent_applications",
@@ -33,7 +36,8 @@
     "download_url": "https://arxiv.org/pdf/2603.13710v1.pdf",
     "year": 2026,
     "source": "arXiv",
-    "note": "Multi-agent video analysis framework for recognizing caregiver intervention strategies in home-based ASD reading sessions."
+    "note": "Multi-agent video analysis framework for recognizing caregiver intervention strategies in home-based ASD reading sessions.",
+    "category": "ASD-specific"
   },
   {
     "section": "agent_applications",
@@ -42,7 +46,8 @@
     "download_url": "https://arxiv.org/pdf/2602.18962.pdf",
     "year": 2026,
     "source": "arXiv",
-    "note": "Glass-box multi-agent communication training system grounded in the double-empathy framework."
+    "note": "Glass-box multi-agent communication training system grounded in the double-empathy framework.",
+    "category": "ASD-specific"
   },
   {
     "section": "agent_applications",
@@ -51,7 +56,8 @@
     "download_url": "https://arxiv.org/pdf/2402.00260v3.pdf",
     "year": 2024,
     "source": "arXiv",
-    "note": "LLM-powered robot intervention pipeline for perspective-taking training in children with autism."
+    "note": "LLM-powered robot intervention pipeline for perspective-taking training in children with autism.",
+    "category": "ASD-specific"
   },
   {
     "section": "agent_applications",
@@ -60,7 +66,8 @@
     "download_url": "https://arxiv.org/pdf/1811.03046v3.pdf",
     "year": 2018,
     "source": "arXiv",
-    "note": "Early but still useful virtual-agent benchmark for private social-skills practice and feedback."
+    "note": "Early but still useful virtual-agent benchmark for private social-skills practice and feedback.",
+    "category": "ASD-specific"
   },
   {
     "section": "llm_autism",
@@ -69,7 +76,8 @@
     "download_url": "https://arxiv.org/pdf/2601.15437.pdf",
     "year": 2026,
     "source": "arXiv",
-    "note": "Multi-agent simulations expose how LLMs implicitly frame autistic and non-autistic social interaction."
+    "note": "Multi-agent simulations expose how LLMs implicitly frame autistic and non-autistic social interaction.",
+    "category": "ASD-specific"
   },
   {
     "section": "llm_autism",
@@ -78,7 +86,8 @@
     "download_url": "https://arxiv.org/pdf/2601.22893v3.pdf",
     "year": 2026,
     "source": "arXiv",
-    "note": "Directly measures autism-myth endorsement and finds major knowledge fidelity gaps in frontier LLMs."
+    "note": "Directly measures autism-myth endorsement and finds major knowledge fidelity gaps in frontier LLMs.",
+    "category": "ASD-specific"
   },
   {
     "section": "llm_autism",
@@ -87,7 +96,8 @@
     "download_url": "https://arxiv.org/pdf/2601.17946.pdf",
     "year": 2026,
     "source": "arXiv",
-    "note": "Examines the practical benefits and risks autistic users report when using ChatGPT in daily life."
+    "note": "Examines the practical benefits and risks autistic users report when using ChatGPT in daily life.",
+    "category": "ASD-specific"
   },
   {
     "section": "llm_autism",
@@ -96,7 +106,8 @@
     "download_url": "https://arxiv.org/pdf/2601.12690v1.pdf",
     "year": 2026,
     "source": "arXiv",
-    "note": "Large-scale audit of how disclosure of autism changes LLM advice and can trigger stereotyped recommendations."
+    "note": "Large-scale audit of how disclosure of autism changes LLM advice and can trigger stereotyped recommendations.",
+    "category": "ASD-specific"
   },
   {
     "section": "llm_autism",
@@ -105,7 +116,8 @@
     "download_url": "https://arxiv.org/pdf/2601.15319v1.pdf",
     "year": 2026,
     "source": "arXiv",
-    "note": "Tests whether LLMs can simulate neurodivergent psychometric responses with useful fidelity."
+    "note": "Tests whether LLMs can simulate neurodivergent psychometric responses with useful fidelity.",
+    "category": "ASD-specific"
   },
   {
     "section": "llm_autism",
@@ -114,7 +126,8 @@
     "download_url": "https://arxiv.org/pdf/2509.23434v1.pdf",
     "year": 2025,
     "source": "arXiv",
-    "note": "Generative AI platform for helping neurotypical users experience and reflect on autistic communication styles."
+    "note": "Generative AI platform for helping neurotypical users experience and reflect on autistic communication styles.",
+    "category": "ASD-specific"
   },
   {
     "section": "llm_autism",
@@ -123,7 +136,8 @@
     "download_url": "https://arxiv.org/pdf/2602.13770v3.pdf",
     "year": 2026,
     "source": "arXiv",
-    "note": "Combines dynamic brain connectivity modeling with language-model reasoning for autism-related neuroimaging analysis."
+    "note": "Combines dynamic brain connectivity modeling with language-model reasoning for autism-related neuroimaging analysis.",
+    "category": "ASD-specific"
   },
   {
     "section": "medical_ai",
@@ -131,7 +145,8 @@
     "paper_url": "https://pubmed.ncbi.nlm.nih.gov/41797112/",
     "year": 2026,
     "source": "PubMed",
-    "note": "Combines multimodal early detection with LLM-assisted planning for downstream intervention decisions."
+    "note": "Combines multimodal early detection with LLM-assisted planning for downstream intervention decisions.",
+    "category": "ASD-specific"
   },
   {
     "section": "medical_ai",
@@ -139,7 +154,8 @@
     "paper_url": "https://pubmed.ncbi.nlm.nih.gov/42306396/",
     "year": 2026,
     "source": "PubMed",
-    "note": "Clinician-guided agentic architecture aimed at safer multimodal autism screening workflows."
+    "note": "Clinician-guided agentic architecture aimed at safer multimodal autism screening workflows.",
+    "category": "ASD-specific"
   },
   {
     "section": "medical_ai",
@@ -147,7 +163,8 @@
     "paper_url": "https://pubmed.ncbi.nlm.nih.gov/42317820/",
     "year": 2026,
     "source": "PubMed",
-    "note": "Uses free-text caregiver descriptions with LLM-NLP methods to support early autism detection."
+    "note": "Uses free-text caregiver descriptions with LLM-NLP methods to support early autism detection.",
+    "category": "ASD-specific"
   },
   {
     "section": "medical_ai",
@@ -155,7 +172,8 @@
     "paper_url": "https://pubmed.ncbi.nlm.nih.gov/41802236/",
     "year": 2026,
     "source": "PubMed",
-    "note": "Chatbot intervention study focused on supporting parents of autistic children."
+    "note": "Chatbot intervention study focused on supporting parents of autistic children.",
+    "category": "ASD-specific"
   },
   {
     "section": "medical_ai",
@@ -163,7 +181,8 @@
     "paper_url": "https://pubmed.ncbi.nlm.nih.gov/41706307/",
     "year": 2026,
     "source": "PubMed",
-    "note": "Benchmarks whether human reviewers and LLMs can reliably judge autism-related health information quality."
+    "note": "Benchmarks whether human reviewers and LLMs can reliably judge autism-related health information quality.",
+    "category": "ASD-specific"
   },
   {
     "section": "medical_ai",
@@ -171,7 +190,8 @@
     "paper_url": "https://pubmed.ncbi.nlm.nih.gov/42121994/",
     "year": 2026,
     "source": "PubMed",
-    "note": "Medical prompting pipeline for autism detection from symptom-centered narratives."
+    "note": "Medical prompting pipeline for autism detection from symptom-centered narratives.",
+    "category": "ASD-specific"
   },
   {
     "section": "medical_ai",
@@ -179,7 +199,8 @@
     "paper_url": "https://pubmed.ncbi.nlm.nih.gov/41696837/",
     "year": 2026,
     "source": "PubMed",
-    "note": "Computational speech analysis approach for autism screening using parental-language signals."
+    "note": "Computational speech analysis approach for autism screening using parental-language signals.",
+    "category": "ASD-specific"
   },
   {
     "section": "medical_ai",
@@ -187,7 +208,8 @@
     "paper_url": "https://pubmed.ncbi.nlm.nih.gov/42301801/",
     "year": 2026,
     "source": "PubMed",
-    "note": "Useful applied paper on caregiver acceptance of AI chatbots for autism-support routines."
+    "note": "Useful applied paper on caregiver acceptance of AI chatbots for autism-support routines.",
+    "category": "ASD-specific"
   },
   {
     "section": "medical_ai",
@@ -195,7 +217,8 @@
     "paper_url": "https://pubmed.ncbi.nlm.nih.gov/42296703/",
     "year": 2026,
     "source": "PubMed",
-    "note": "Meta-analysis of machine-learning diagnosis pipelines using fNIRS for ASD detection."
+    "note": "Meta-analysis of machine-learning diagnosis pipelines using fNIRS for ASD detection.",
+    "category": "ASD-specific"
   },
   {
     "section": "medical_ai",
@@ -203,7 +226,8 @@
     "paper_url": "https://pubmed.ncbi.nlm.nih.gov/42263387/",
     "year": 2026,
     "source": "PubMed",
-    "note": "Recent multimodal behavioral study for early ASD detection in naturalistic play settings."
+    "note": "Recent multimodal behavioral study for early ASD detection in naturalistic play settings.",
+    "category": "ASD-specific"
   },
   {
     "section": "medical_ai",
@@ -211,6 +235,715 @@
     "paper_url": "https://pubmed.ncbi.nlm.nih.gov/41910220/",
     "year": 2026,
     "source": "PubMed",
-    "note": "Broad review of machine-learning approaches for early-childhood autism detection."
+    "note": "Broad review of machine-learning approaches for early-childhood autism detection.",
+    "category": "ASD-specific"
+  },
+  {
+    "section": "skills_workflows",
+    "category": "Skills",
+    "title": "SkillClaw: Let Skills Evolve Collectively with Agentic Evolver",
+    "paper_url": "https://arxiv.org/abs/2604.08377",
+    "year": 2026,
+    "source": "arXiv",
+    "note": "Useful for building reusable skills, safer tool use, and workflow orchestration in ASD-focused agents.",
+    "download_url": "https://arxiv.org/pdf/2604.08377.pdf"
+  },
+  {
+    "section": "skills_workflows",
+    "category": "Skills",
+    "title": "SkillCraft: Can LLM Agents Learn to Use Tools Skillfully?",
+    "paper_url": "https://arxiv.org/abs/2603.00718",
+    "year": 2026,
+    "source": "arXiv",
+    "note": "Useful for building reusable skills, safer tool use, and workflow orchestration in ASD-focused agents.",
+    "download_url": "https://arxiv.org/pdf/2603.00718.pdf"
+  },
+  {
+    "section": "skills_workflows",
+    "category": "Skills",
+    "title": "Co-Evolving LLM Decision and Skill Bank Agents for Long-Horizon Tasks",
+    "paper_url": "https://arxiv.org/abs/2604.20987",
+    "year": 2026,
+    "source": "arXiv",
+    "note": "Useful for building reusable skills, safer tool use, and workflow orchestration in ASD-focused agents.",
+    "download_url": "https://arxiv.org/pdf/2604.20987.pdf"
+  },
+  {
+    "section": "skills_workflows",
+    "category": "Skills",
+    "title": "Skill-Pro: Learning Reusable Skills from Experience via Non-Parametric PPO for LLM Agents",
+    "paper_url": "https://arxiv.org/abs/2602.01869",
+    "year": 2026,
+    "source": "arXiv",
+    "note": "Useful for building reusable skills, safer tool use, and workflow orchestration in ASD-focused agents.",
+    "download_url": "https://arxiv.org/pdf/2602.01869.pdf"
+  },
+  {
+    "section": "skills_workflows",
+    "category": "Skills",
+    "title": "CoEvoSkills: Self-Evolving Agent Skills via Co-Evolutionary Verification",
+    "paper_url": "https://arxiv.org/abs/2604.01687",
+    "year": 2026,
+    "source": "arXiv",
+    "note": "Useful for building reusable skills, safer tool use, and workflow orchestration in ASD-focused agents.",
+    "download_url": "https://arxiv.org/pdf/2604.01687.pdf"
+  },
+  {
+    "section": "skills_workflows",
+    "category": "Skills",
+    "title": "From Context to Skills: Can Language Models Learn from Context Skillfully?",
+    "paper_url": "https://arxiv.org/abs/2604.27660v1",
+    "year": 2026,
+    "source": "arXiv",
+    "note": "Useful for building reusable skills, safer tool use, and workflow orchestration in ASD-focused agents.",
+    "download_url": "https://arxiv.org/pdf/2604.27660v1.pdf"
+  },
+  {
+    "section": "skills_workflows",
+    "category": "Skills",
+    "title": "SkillOS: Learning Skill Curation for Self-Evolving Agents",
+    "paper_url": "https://arxiv.org/abs/2605.06614",
+    "year": 2026,
+    "source": "arXiv",
+    "note": "Useful for building reusable skills, safer tool use, and workflow orchestration in ASD-focused agents.",
+    "download_url": "https://arxiv.org/pdf/2605.06614.pdf"
+  },
+  {
+    "section": "skills_workflows",
+    "category": "Skills",
+    "title": "MemSkill: Learning and Evolving Memory Skills for Self-Evolving Agents",
+    "paper_url": "https://arxiv.org/abs/2602.02474",
+    "year": 2026,
+    "source": "arXiv",
+    "note": "Useful for building reusable skills, safer tool use, and workflow orchestration in ASD-focused agents.",
+    "download_url": "https://arxiv.org/pdf/2602.02474.pdf"
+  },
+  {
+    "section": "skills_workflows",
+    "category": "Skills",
+    "title": "SkCC: Portable and Secure Skill Compilation for Cross-Framework LLM Agents",
+    "paper_url": "https://arxiv.org/abs/2605.03353",
+    "year": 2026,
+    "source": "arXiv",
+    "note": "Useful for building reusable skills, safer tool use, and workflow orchestration in ASD-focused agents.",
+    "download_url": "https://arxiv.org/pdf/2605.03353.pdf"
+  },
+  {
+    "section": "skills_workflows",
+    "category": "Skills",
+    "title": "Skill1: Unified Evolution of Skill-Augmented Agents via Reinforcement Learning",
+    "paper_url": "https://arxiv.org/abs/2605.06130",
+    "year": 2026,
+    "source": "arXiv",
+    "note": "Useful for building reusable skills, safer tool use, and workflow orchestration in ASD-focused agents.",
+    "download_url": "https://arxiv.org/pdf/2605.06130.pdf"
+  },
+  {
+    "section": "skills_workflows",
+    "category": "Skills",
+    "title": "SkillRL: Evolving Agents via Recursive Skill-Augmented Reinforcement Learning",
+    "paper_url": "https://arxiv.org/abs/2602.08234",
+    "year": 2026,
+    "source": "arXiv",
+    "note": "Useful for building reusable skills, safer tool use, and workflow orchestration in ASD-focused agents.",
+    "download_url": "https://arxiv.org/pdf/2602.08234.pdf"
+  },
+  {
+    "section": "skills_workflows",
+    "category": "Skills",
+    "title": "Group of Skills: Group-Structured Skill Retrieval for Agent Skill Libraries",
+    "paper_url": "https://arxiv.org/abs/2605.06978",
+    "year": 2026,
+    "source": "arXiv",
+    "note": "Useful for building reusable skills, safer tool use, and workflow orchestration in ASD-focused agents.",
+    "download_url": "https://arxiv.org/pdf/2605.06978.pdf"
+  },
+  {
+    "section": "skills_workflows",
+    "category": "Skills",
+    "title": "Skill-R1: Agent Skill Evolution via Reinforcement Learning",
+    "paper_url": "https://arxiv.org/abs/2605.09359v1",
+    "year": 2026,
+    "source": "arXiv",
+    "note": "Useful for building reusable skills, safer tool use, and workflow orchestration in ASD-focused agents.",
+    "download_url": "https://arxiv.org/pdf/2605.09359v1.pdf"
+  },
+  {
+    "section": "skills_workflows",
+    "category": "Skills",
+    "title": "SkillEvolver: Skill Learning as a Meta-Skill",
+    "paper_url": "https://arxiv.org/abs/2605.10500",
+    "year": 2026,
+    "source": "arXiv",
+    "note": "Useful for building reusable skills, safer tool use, and workflow orchestration in ASD-focused agents.",
+    "download_url": "https://arxiv.org/pdf/2605.10500.pdf"
+  },
+  {
+    "section": "skills_workflows",
+    "category": "Skills",
+    "title": "EmbodiSkill: Skill-Aware Reflection for Self-Evolving Embodied Agents",
+    "paper_url": "https://arxiv.org/abs/2605.10332",
+    "year": 2026,
+    "source": "arXiv",
+    "note": "Useful for building reusable skills, safer tool use, and workflow orchestration in ASD-focused agents.",
+    "download_url": "https://arxiv.org/pdf/2605.10332.pdf"
+  },
+  {
+    "section": "memory_systems",
+    "category": "Memory",
+    "title": "MemGen: WeavingGenerativeLatentMemoryfor Self-Evolving Agents",
+    "paper_url": "https://arxiv.org/abs/2509.24704",
+    "year": 2025,
+    "source": "arXiv",
+    "note": "Useful for long-horizon personalization, history tracking, and memory management in ASD-focused agents.",
+    "download_url": "https://arxiv.org/pdf/2509.24704.pdf"
+  },
+  {
+    "section": "memory_systems",
+    "category": "Memory",
+    "title": "G-Memory: Tracing Hierarchical Memory for Multi-Agent Systems",
+    "paper_url": "https://arxiv.org/abs/2506.07398",
+    "year": 2025,
+    "source": "arXiv",
+    "note": "Useful for long-horizon personalization, history tracking, and memory management in ASD-focused agents.",
+    "download_url": "https://arxiv.org/pdf/2506.07398.pdf"
+  },
+  {
+    "section": "memory_systems",
+    "category": "Memory",
+    "title": "MIRIX: Multi-Agent Memory System for LLM-Based Agents",
+    "paper_url": "https://arxiv.org/abs/2507.07957",
+    "year": 2025,
+    "source": "arXiv",
+    "note": "Useful for long-horizon personalization, history tracking, and memory management in ASD-focused agents.",
+    "download_url": "https://arxiv.org/pdf/2507.07957.pdf"
+  },
+  {
+    "section": "memory_systems",
+    "category": "Memory",
+    "title": "Agentic Memory: Learning Unified Long-Term and Short-Term Memory Management for Large Language Model Agents",
+    "paper_url": "https://arxiv.org/abs/2601.01885",
+    "year": 2026,
+    "source": "arXiv",
+    "note": "Useful for long-horizon personalization, history tracking, and memory management in ASD-focused agents.",
+    "download_url": "https://arxiv.org/pdf/2601.01885.pdf"
+  },
+  {
+    "section": "memory_systems",
+    "category": "Memory",
+    "title": "Mem2Evolve: Towards Self-Evolving Agents via Co-Evolutionary Capability Expansion and Experience Distillation",
+    "paper_url": "https://arxiv.org/abs/2604.10923",
+    "year": 2026,
+    "source": "arXiv",
+    "note": "Useful for long-horizon personalization, history tracking, and memory management in ASD-focused agents.",
+    "download_url": "https://arxiv.org/pdf/2604.10923.pdf"
+  },
+  {
+    "section": "memory_systems",
+    "category": "Memory",
+    "title": "MemoryBench: A Benchmark for Memory and Continual Learning in LLM Systems",
+    "paper_url": "https://arxiv.org/abs/2510.17281",
+    "year": 2025,
+    "source": "arXiv",
+    "note": "Useful for long-horizon personalization, history tracking, and memory management in ASD-focused agents.",
+    "download_url": "https://arxiv.org/pdf/2510.17281.pdf"
+  },
+  {
+    "section": "memory_systems",
+    "category": "Memory",
+    "title": "Generalizable Self-Evolving Memory for Automatic Prompt Optimization",
+    "paper_url": "https://arxiv.org/abs/2603.21520",
+    "year": 2026,
+    "source": "arXiv",
+    "note": "Useful for long-horizon personalization, history tracking, and memory management in ASD-focused agents.",
+    "download_url": "https://arxiv.org/pdf/2603.21520.pdf"
+  },
+  {
+    "section": "memory_systems",
+    "category": "Memory",
+    "title": "delta-mem: Efficient Online Memory for Large Language Models",
+    "paper_url": "https://arxiv.org/abs/2605.12357",
+    "year": 2026,
+    "source": "arXiv",
+    "note": "Useful for long-horizon personalization, history tracking, and memory management in ASD-focused agents.",
+    "download_url": "https://arxiv.org/pdf/2605.12357.pdf"
+  },
+  {
+    "section": "memory_systems",
+    "category": "Memory",
+    "title": "MedMemoryBench: Benchmarking Agent Memory in Personalized Healthcare",
+    "paper_url": "https://arxiv.org/abs/2605.11814",
+    "year": 2026,
+    "source": "arXiv",
+    "note": "Useful for long-horizon personalization, history tracking, and memory management in ASD-focused agents.",
+    "download_url": "https://arxiv.org/pdf/2605.11814.pdf"
+  },
+  {
+    "section": "memory_systems",
+    "category": "Memory",
+    "title": "Remember the Decision, Not the Description: A Rate-Distortion Framework for Agent Memory",
+    "paper_url": "https://arxiv.org/abs/2605.10870",
+    "year": 2026,
+    "source": "arXiv",
+    "note": "Useful for long-horizon personalization, history tracking, and memory management in ASD-focused agents.",
+    "download_url": "https://arxiv.org/pdf/2605.10870.pdf"
+  },
+  {
+    "section": "memory_systems",
+    "category": "Memory",
+    "title": "Mem-W: Latent Memory-Native GUI Agents",
+    "paper_url": "https://arxiv.org/abs/2605.09317v1",
+    "year": 2026,
+    "source": "arXiv",
+    "note": "Useful for long-horizon personalization, history tracking, and memory management in ASD-focused agents.",
+    "download_url": "https://arxiv.org/pdf/2605.09317v1.pdf"
+  },
+  {
+    "section": "memory_systems",
+    "category": "Memory",
+    "title": "MemEye: A Visual-Centric Evaluation Framework for Multimodal Agent Memory",
+    "paper_url": "https://arxiv.org/abs/2605.15128",
+    "year": 2026,
+    "source": "arXiv",
+    "note": "Useful for long-horizon personalization, history tracking, and memory management in ASD-focused agents.",
+    "download_url": "https://arxiv.org/pdf/2605.15128.pdf"
+  },
+  {
+    "section": "skills_workflows",
+    "category": "Skills",
+    "title": "CUA-Skill: Develop Skills for Computer Using Agent",
+    "paper_url": "https://arxiv.org/abs/2601.21123",
+    "year": 2026,
+    "source": "arXiv",
+    "note": "Useful for building reusable skills, safer tool use, and workflow orchestration in ASD-focused agents.",
+    "download_url": "https://arxiv.org/pdf/2601.21123.pdf"
+  },
+  {
+    "section": "memory_systems",
+    "category": "Memory",
+    "title": "AMA: Adaptive Memory via Multi-Agent Collaboration",
+    "paper_url": "https://arxiv.org/abs/2601.20352",
+    "year": 2026,
+    "source": "arXiv",
+    "note": "Useful for long-horizon personalization, history tracking, and memory management in ASD-focused agents.",
+    "download_url": "https://arxiv.org/pdf/2601.20352.pdf"
+  },
+  {
+    "section": "memory_systems",
+    "category": "Memory",
+    "title": "E-mem: Multi-agent based Episodic Context Reconstruction for LLM Agent Memory",
+    "paper_url": "https://arxiv.org/abs/2601.21714",
+    "year": 2026,
+    "source": "arXiv",
+    "note": "Useful for long-horizon personalization, history tracking, and memory management in ASD-focused agents.",
+    "download_url": "https://arxiv.org/pdf/2601.21714.pdf"
+  },
+  {
+    "section": "skills_workflows",
+    "category": "Skills",
+    "title": "When Single-Agent with Skills Replace Multi-Agent Systems and When They Fail",
+    "paper_url": "https://arxiv.org/abs/2601.04748",
+    "year": 2026,
+    "source": "arXiv",
+    "note": "Useful for building reusable skills, safer tool use, and workflow orchestration in ASD-focused agents.",
+    "download_url": "https://arxiv.org/pdf/2601.04748.pdf"
+  },
+  {
+    "section": "memory_systems",
+    "category": "Memory",
+    "title": "StackPlanner: A Centralized Hierarchical Multi-Agent System with Task-Experience Memory Management",
+    "paper_url": "https://arxiv.org/abs/2601.05890",
+    "year": 2026,
+    "source": "arXiv",
+    "note": "Useful for long-horizon personalization, history tracking, and memory management in ASD-focused agents.",
+    "download_url": "https://arxiv.org/pdf/2601.05890.pdf"
+  },
+  {
+    "section": "memory_systems",
+    "category": "Memory",
+    "title": "AMER-RCL: Agentic Memory Enhanced Recursive Reasoning for Root Cause Localization in Microservices",
+    "paper_url": "https://arxiv.org/abs/2601.02732",
+    "year": 2026,
+    "source": "arXiv",
+    "note": "Useful for long-horizon personalization, history tracking, and memory management in ASD-focused agents.",
+    "download_url": "https://arxiv.org/pdf/2601.02732.pdf"
+  },
+  {
+    "section": "memory_systems",
+    "category": "Memory",
+    "title": "AI Agent Systems for Supply Chains: Structured Decision Prompts and Memory Retrieval",
+    "paper_url": "https://arxiv.org/abs/2602.05524",
+    "year": 2026,
+    "source": "arXiv",
+    "note": "Useful for long-horizon personalization, history tracking, and memory management in ASD-focused agents.",
+    "download_url": "https://arxiv.org/pdf/2602.05524.pdf"
+  },
+  {
+    "section": "memory_systems",
+    "category": "Memory",
+    "title": "Grounding Agent Memory in Contextual Intent",
+    "paper_url": "https://arxiv.org/abs/2601.10702",
+    "year": 2026,
+    "source": "arXiv",
+    "note": "Useful for long-horizon personalization, history tracking, and memory management in ASD-focused agents.",
+    "download_url": "https://arxiv.org/pdf/2601.10702.pdf"
+  },
+  {
+    "section": "memory_systems",
+    "category": "Memory",
+    "title": "LUMINA: Long-horizon Understanding for Multi-turn Interactive Agents",
+    "paper_url": "https://arxiv.org/abs/2601.16649",
+    "year": 2026,
+    "source": "arXiv",
+    "note": "Useful for long-horizon personalization, history tracking, and memory management in ASD-focused agents.",
+    "download_url": "https://arxiv.org/pdf/2601.16649.pdf"
+  },
+  {
+    "section": "memory_systems",
+    "category": "Memory",
+    "title": "ROMA: Recursive Open Meta-Agent Framework for Long-Horizon Multi-Agent Systems",
+    "paper_url": "https://arxiv.org/abs/2602.01848",
+    "year": 2026,
+    "source": "arXiv",
+    "note": "Useful for long-horizon personalization, history tracking, and memory management in ASD-focused agents.",
+    "download_url": "https://arxiv.org/pdf/2602.01848.pdf"
+  },
+  {
+    "section": "memory_systems",
+    "category": "Memory",
+    "title": "LSTM-MAS: A Long Short-Term Memory Inspired Multi-Agent System for Long-Context Understanding",
+    "paper_url": "https://arxiv.org/abs/2601.11913",
+    "year": 2026,
+    "source": "arXiv",
+    "note": "Useful for long-horizon personalization, history tracking, and memory management in ASD-focused agents.",
+    "download_url": "https://arxiv.org/pdf/2601.11913.pdf"
+  },
+  {
+    "section": "memory_systems",
+    "category": "Memory",
+    "title": "Continuum Memory Architectures for Long-Horizon LLM Agents",
+    "paper_url": "https://arxiv.org/abs/2601.09913",
+    "year": 2026,
+    "source": "arXiv",
+    "note": "Useful for long-horizon personalization, history tracking, and memory management in ASD-focused agents.",
+    "download_url": "https://arxiv.org/pdf/2601.09913.pdf"
+  },
+  {
+    "section": "memory_systems",
+    "category": "Memory",
+    "title": "SwiftMem: Fast Agentic Memory via Query-aware Indexing",
+    "paper_url": "https://arxiv.org/abs/2601.08160",
+    "year": 2026,
+    "source": "arXiv",
+    "note": "Useful for long-horizon personalization, history tracking, and memory management in ASD-focused agents.",
+    "download_url": "https://arxiv.org/pdf/2601.08160.pdf"
+  },
+  {
+    "section": "memory_systems",
+    "category": "Memory",
+    "title": "MAGMA: A Multi-Graph based Agentic Memory Architecture",
+    "paper_url": "https://arxiv.org/abs/2601.03236",
+    "year": 2026,
+    "source": "arXiv",
+    "note": "Useful for long-horizon personalization, history tracking, and memory management in ASD-focused agents.",
+    "download_url": "https://arxiv.org/pdf/2601.03236.pdf"
+  },
+  {
+    "section": "memory_systems",
+    "category": "Memory",
+    "title": "SimpleMem: Efficient Lifelong Memory for LLM Agents",
+    "paper_url": "https://arxiv.org/abs/2601.02553",
+    "year": 2026,
+    "source": "arXiv",
+    "note": "Useful for long-horizon personalization, history tracking, and memory management in ASD-focused agents.",
+    "download_url": "https://arxiv.org/pdf/2601.02553.pdf"
+  },
+  {
+    "section": "memory_systems",
+    "category": "Memory",
+    "title": "Learning How to Remember: A Meta-Cognitive Management Method for Structured and Transferable Agent Memory",
+    "paper_url": "https://arxiv.org/abs/2601.07470",
+    "year": 2026,
+    "source": "arXiv",
+    "note": "Useful for long-horizon personalization, history tracking, and memory management in ASD-focused agents.",
+    "download_url": "https://arxiv.org/pdf/2601.07470.pdf"
+  },
+  {
+    "section": "evolving_methods",
+    "category": "Self-evolving / reflection / prompt optimization",
+    "title": "ST-EVO:TowardsGenerativeSpatio-TemporalEvolutionof Multi-AgentCommunicationTopologies",
+    "paper_url": "https://arxiv.org/abs/2602.14681",
+    "year": 2026,
+    "source": "arXiv",
+    "note": "General capability helpful for ASD AI agents: self-evolution, reflection, prompt optimization, and automatic improvement.",
+    "download_url": "https://arxiv.org/pdf/2602.14681.pdf"
+  },
+  {
+    "section": "evolving_methods",
+    "category": "Self-evolving / reflection / prompt optimization",
+    "title": "Experiential Reflective Learning for Self-Improving LLM Agents",
+    "paper_url": "https://arxiv.org/abs/2603.24639",
+    "year": 2026,
+    "source": "arXiv",
+    "note": "General capability helpful for ASD AI agents: self-evolution, reflection, prompt optimization, and automatic improvement.",
+    "download_url": "https://arxiv.org/pdf/2603.24639.pdf"
+  },
+  {
+    "section": "evolving_methods",
+    "category": "Self-evolving / reflection / prompt optimization",
+    "title": "Learning to Evolve: A Self-Improving Framework for Multi-Agent Systems via Textual Parameter Graph Optimization",
+    "paper_url": "https://arxiv.org/abs/2604.20714",
+    "year": 2026,
+    "source": "arXiv",
+    "note": "General capability helpful for ASD AI agents: self-evolution, reflection, prompt optimization, and automatic improvement.",
+    "download_url": "https://arxiv.org/pdf/2604.20714.pdf"
+  },
+  {
+    "section": "evolving_methods",
+    "category": "Self-evolving / reflection / prompt optimization",
+    "title": "Truly Self-Improving Agents Require Intrinsic Metacognitive Learning",
+    "paper_url": "https://arxiv.org/abs/2506.05109",
+    "year": 2025,
+    "source": "arXiv",
+    "note": "General capability helpful for ASD AI agents: self-evolution, reflection, prompt optimization, and automatic improvement.",
+    "download_url": "https://arxiv.org/pdf/2506.05109.pdf"
+  },
+  {
+    "section": "evolving_methods",
+    "category": "Self-evolving / reflection / prompt optimization",
+    "title": "EvoLM: Self-Evolving Language Models through Co-Evolved Discriminative Rubrics",
+    "paper_url": "https://arxiv.org/abs/2605.03871",
+    "year": 2026,
+    "source": "arXiv",
+    "note": "General capability helpful for ASD AI agents: self-evolution, reflection, prompt optimization, and automatic improvement.",
+    "download_url": "https://arxiv.org/pdf/2605.03871.pdf"
+  },
+  {
+    "section": "evolving_methods",
+    "category": "Self-evolving / reflection / prompt optimization",
+    "title": "MASPO: Joint Prompt Optimization for LLM-based Multi-Agent Systems",
+    "paper_url": "https://arxiv.org/abs/2605.06623",
+    "year": 2026,
+    "source": "arXiv",
+    "note": "General capability helpful for ASD AI agents: self-evolution, reflection, prompt optimization, and automatic improvement.",
+    "download_url": "https://arxiv.org/pdf/2605.06623.pdf"
+  },
+  {
+    "section": "evolving_methods",
+    "category": "Self-evolving / reflection / prompt optimization",
+    "title": "Evolutionary Generation of Multi-Agent Systems",
+    "paper_url": "https://arxiv.org/abs/2602.06511",
+    "year": 2026,
+    "source": "arXiv",
+    "note": "General capability helpful for ASD AI agents: self-evolution, reflection, prompt optimization, and automatic improvement.",
+    "download_url": "https://arxiv.org/pdf/2602.06511.pdf"
+  },
+  {
+    "section": "evolving_methods",
+    "category": "Self-evolving / reflection / prompt optimization",
+    "title": "EvoMAS: Learning Execution-Time Workflows for Multi-Agent Systems",
+    "paper_url": "https://arxiv.org/abs/2605.08769v1",
+    "year": 2026,
+    "source": "arXiv",
+    "note": "General capability helpful for ASD AI agents: self-evolution, reflection, prompt optimization, and automatic improvement.",
+    "download_url": "https://arxiv.org/pdf/2605.08769v1.pdf"
+  },
+  {
+    "section": "evolving_methods",
+    "category": "Self-evolving / reflection / prompt optimization",
+    "title": "Tree-based Credit Assignment for Multi-Agent Memory System",
+    "paper_url": "https://arxiv.org/abs/2605.04811v1",
+    "year": 2026,
+    "source": "arXiv",
+    "note": "General capability helpful for ASD AI agents: self-evolution, reflection, prompt optimization, and automatic improvement.",
+    "download_url": "https://arxiv.org/pdf/2605.04811v1.pdf"
+  },
+  {
+    "section": "evolving_methods",
+    "category": "Self-evolving / reflection / prompt optimization",
+    "title": "AEL: Agent Evolving Learning for Open-Ended Environments",
+    "paper_url": "https://arxiv.org/abs/2604.21725",
+    "year": 2026,
+    "source": "arXiv",
+    "note": "General capability helpful for ASD AI agents: self-evolution, reflection, prompt optimization, and automatic improvement.",
+    "download_url": "https://arxiv.org/pdf/2604.21725.pdf"
+  },
+  {
+    "section": "other_agentic_methods",
+    "category": "Agentic recommendation",
+    "title": "Self-Evolving Recommendation System: End-To-End Autonomous Model Optimization With LLM Agents",
+    "paper_url": "https://arxiv.org/abs/2602.10226",
+    "year": 2026,
+    "source": "arXiv",
+    "note": "General capability helpful for ASD AI agents: personalization, recommendation, ranking, and adaptive support decisions.",
+    "download_url": "https://arxiv.org/pdf/2602.10226.pdf"
+  },
+  {
+    "section": "other_agentic_methods",
+    "category": "Agentic recommendation",
+    "title": "Self-Distilled Reinforcement Learning for Co-Evolving Agentic Recommender Systems",
+    "paper_url": "https://arxiv.org/abs/2604.10029",
+    "year": 2026,
+    "source": "arXiv",
+    "note": "General capability helpful for ASD AI agents: personalization, recommendation, ranking, and adaptive support decisions.",
+    "download_url": "https://arxiv.org/pdf/2604.10029.pdf"
+  },
+  {
+    "section": "other_agentic_methods",
+    "category": "Agentic recommendation",
+    "title": "AgentRecBench: Benchmarking LLM Agent-based Personalized Recommender Systems",
+    "paper_url": "https://proceedings.neurips.cc/paper_files/paper/2025/hash/e2d6f7249add096e26679eade1b4cc6f-Abstract-Datasets_and_Benchmarks_Track.html",
+    "year": 2025,
+    "source": "NeurIPS",
+    "note": "General capability helpful for ASD AI agents: personalization, recommendation, ranking, and adaptive support decisions."
+  },
+  {
+    "section": "other_agentic_methods",
+    "category": "Agentic recommendation",
+    "title": "Agentic Recommender Systems: A Systematic Literature Review",
+    "paper_url": "https://www.computer.org/csdl/journal/ts/2026/04/11363682/2dB08bNroQM",
+    "year": 2026,
+    "source": "Computer Society",
+    "note": "General capability helpful for ASD AI agents: personalization, recommendation, ranking, and adaptive support decisions."
+  },
+  {
+    "section": "other_agentic_methods",
+    "category": "Other agentic",
+    "title": "Optimizing Agentic Reasoning with Retrieval via Synthetic Semantic Information Gain Reward",
+    "paper_url": "https://arxiv.org/abs/2602.00845",
+    "year": 2026,
+    "source": "arXiv",
+    "note": "General capability helpful for ASD AI agents: collaboration, retrieval, planning, and evaluation infrastructure.",
+    "download_url": "https://arxiv.org/pdf/2602.00845.pdf"
+  },
+  {
+    "section": "other_agentic_methods",
+    "category": "Other agentic",
+    "title": "Graph-of-Agents: A Graph-based Framework for Multi-Agent LLM Collaboration",
+    "paper_url": "https://arxiv.org/abs/2604.17148",
+    "year": 2026,
+    "source": "arXiv",
+    "note": "General capability helpful for ASD AI agents: collaboration, retrieval, planning, and evaluation infrastructure.",
+    "download_url": "https://arxiv.org/pdf/2604.17148.pdf"
+  },
+  {
+    "section": "other_agentic_methods",
+    "category": "Other agentic",
+    "title": "OCR-Memory: Optical Context Retrieval for Long-Horizon Agent Memory",
+    "paper_url": "https://arxiv.org/abs/2604.26622",
+    "year": 2026,
+    "source": "arXiv",
+    "note": "General capability helpful for ASD AI agents: collaboration, retrieval, planning, and evaluation infrastructure.",
+    "download_url": "https://arxiv.org/pdf/2604.26622.pdf"
+  },
+  {
+    "section": "other_agentic_methods",
+    "category": "Other agentic",
+    "title": "Context Training with Active Information Seeking",
+    "paper_url": "https://arxiv.org/abs/2605.13050",
+    "year": 2026,
+    "source": "arXiv",
+    "note": "General capability helpful for ASD AI agents: collaboration, retrieval, planning, and evaluation infrastructure.",
+    "download_url": "https://arxiv.org/pdf/2605.13050.pdf"
+  },
+  {
+    "section": "evolving_methods",
+    "category": "Self-evolving / reflection / prompt optimization",
+    "title": "From Self-Evolving Synthetic Data to Verifiable-Reward RL: Post-Training Multi-turn Interactive Tool-Using Agents",
+    "paper_url": "https://arxiv.org/abs/2601.22607",
+    "year": 2026,
+    "source": "arXiv",
+    "note": "General capability helpful for ASD AI agents: self-evolution, reflection, prompt optimization, and automatic improvement.",
+    "download_url": "https://arxiv.org/pdf/2601.22607.pdf"
+  },
+  {
+    "section": "evolving_methods",
+    "category": "Self-evolving / reflection / prompt optimization",
+    "title": "EvoConfig: Self-Evolving Multi-Agent Systems for Efficient Autonomous Environment Configuration",
+    "paper_url": "https://arxiv.org/abs/2601.16489",
+    "year": 2026,
+    "source": "arXiv",
+    "note": "General capability helpful for ASD AI agents: self-evolution, reflection, prompt optimization, and automatic improvement.",
+    "download_url": "https://arxiv.org/pdf/2601.16489.pdf"
+  },
+  {
+    "section": "evolving_methods",
+    "category": "Self-evolving / reflection / prompt optimization",
+    "title": "CORAL: Towards Autonomous Multi-Agent Evolution for Open-Ended Discovery",
+    "paper_url": "https://arxiv.org/abs/2604.01658",
+    "year": 2026,
+    "source": "arXiv",
+    "note": "General capability helpful for ASD AI agents: self-evolution, reflection, prompt optimization, and automatic improvement.",
+    "download_url": "https://arxiv.org/pdf/2604.01658.pdf"
+  },
+  {
+    "section": "evolving_methods",
+    "category": "Self-evolving / reflection / prompt optimization",
+    "title": "Towards AGI A Pragmatic Approach Towards Self Evolving Agent",
+    "paper_url": "https://arxiv.org/abs/2601.11658",
+    "year": 2026,
+    "source": "arXiv",
+    "note": "General capability helpful for ASD AI agents: self-evolution, reflection, prompt optimization, and automatic improvement.",
+    "download_url": "https://arxiv.org/pdf/2601.11658.pdf"
+  },
+  {
+    "section": "evolving_methods",
+    "category": "Self-evolving / reflection / prompt optimization",
+    "title": "MagicGUI-RMS: A Multi-Agent Reward Model System for Self-Evolving GUI Agents via Automated Feedback Reflux",
+    "paper_url": "https://arxiv.org/abs/2601.13060",
+    "year": 2026,
+    "source": "arXiv",
+    "note": "General capability helpful for ASD AI agents: self-evolution, reflection, prompt optimization, and automatic improvement.",
+    "download_url": "https://arxiv.org/pdf/2601.13060.pdf"
+  },
+  {
+    "section": "evolving_methods",
+    "category": "Self-evolving / reflection / prompt optimization",
+    "title": "PRISMA: Reinforcement Learning Guided Two-Stage Policy Optimization in Multi-Agent Architecture for Open-Domain Multi-Hop QA",
+    "paper_url": "https://arxiv.org/abs/2601.05465",
+    "year": 2026,
+    "source": "arXiv",
+    "note": "General capability helpful for ASD AI agents: self-evolution, reflection, prompt optimization, and automatic improvement.",
+    "download_url": "https://arxiv.org/pdf/2601.05465.pdf"
+  },
+  {
+    "section": "evolving_methods",
+    "category": "Self-evolving / reflection / prompt optimization",
+    "title": "No More Stale Feedback: Co-Evolving Critics for Open-World Agent Learning",
+    "paper_url": "https://arxiv.org/abs/2601.06794",
+    "year": 2026,
+    "source": "arXiv",
+    "note": "General capability helpful for ASD AI agents: self-evolution, reflection, prompt optimization, and automatic improvement.",
+    "download_url": "https://arxiv.org/pdf/2601.06794.pdf"
+  },
+  {
+    "section": "evolving_methods",
+    "category": "Self-evolving / reflection / prompt optimization",
+    "title": "SHIELD: An Auto-Healing Agentic Defense Framework for LLM Resource Exhaustion Attacks",
+    "paper_url": "https://arxiv.org/abs/2601.19174",
+    "year": 2026,
+    "source": "arXiv",
+    "note": "General capability helpful for ASD AI agents: self-evolution, reflection, prompt optimization, and automatic improvement.",
+    "download_url": "https://arxiv.org/pdf/2601.19174.pdf"
+  },
+  {
+    "section": "evolving_methods",
+    "category": "Self-evolving / reflection / prompt optimization",
+    "title": "EvoFSM: Controllable Self-Evolution for Deep Research with Finite State Machines",
+    "paper_url": "https://arxiv.org/abs/2601.09465",
+    "year": 2026,
+    "source": "arXiv",
+    "note": "General capability helpful for ASD AI agents: self-evolution, reflection, prompt optimization, and automatic improvement.",
+    "download_url": "https://arxiv.org/pdf/2601.09465.pdf"
+  },
+  {
+    "section": "evolving_methods",
+    "category": "Self-evolving / reflection / prompt optimization",
+    "title": "Meta Context Engineering via Agentic Skill Evolution",
+    "paper_url": "https://arxiv.org/abs/2601.21557",
+    "year": 2026,
+    "source": "arXiv",
+    "note": "General capability helpful for ASD AI agents: self-evolution, reflection, prompt optimization, and automatic improvement.",
+    "download_url": "https://arxiv.org/pdf/2601.21557.pdf"
   }
 ]

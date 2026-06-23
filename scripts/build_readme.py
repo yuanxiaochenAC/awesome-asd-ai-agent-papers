@@ -12,6 +12,10 @@ SECTIONS = [
     ("agent_applications", "AI Agent Applications In ASD"),
     ("llm_autism", "LLMs, Multi-Agent Systems, And Autism"),
     ("medical_ai", "Latest ASD Medical And Clinical AI Papers"),
+    ("evolving_methods", "General Capabilities Helpful For ASD AI Agents: Self-Evolving, Reflection, And Prompt Optimization"),
+    ("skills_workflows", "General Capabilities Helpful For ASD AI Agents: Skills, Tool-Use, And Workflow"),
+    ("memory_systems", "General Capabilities Helpful For ASD AI Agents: Memory And Long-Horizon Ability"),
+    ("other_agentic_methods", "General Capabilities Helpful For ASD AI Agents: Recommendation, Collaboration, And Other Agentic Methods"),
 ]
 
 
@@ -31,14 +35,15 @@ def render_section(items: list[dict[str, object]], section_key: str, title: str)
     lines = [
         f"## {title}",
         "",
-        "| Paper | Year | Source | Access | Why It Matters |",
-        "| --- | --- | --- | --- | --- |",
+        "| Paper | Year | Type | Source | Access | Why It Matters |",
+        "| --- | --- | --- | --- | --- | --- |",
     ]
     section_items = [item for item in items if item["section"] == section_key]
     for item in sorted(section_items, key=lambda row: (row["year"], row["title"]), reverse=True):
         title_cell = f"[{item['title']}]({item['paper_url']})"
+        type_cell = item.get("category", "ASD-specific")
         lines.append(
-            f"| {title_cell} | {item['year']} | {item['source']} | {format_access(item)} | {item['note']} |"
+            f"| {title_cell} | {item['year']} | {type_cell} | {item['source']} | {format_access(item)} | {item['note']} |"
         )
     lines.append("")
     return lines
