@@ -945,5 +945,207 @@
     "source": "arXiv",
     "note": "General capability helpful for ASD AI agents: self-evolution, reflection, prompt optimization, and automatic improvement.",
     "download_url": "https://arxiv.org/pdf/2601.21557.pdf"
+  },
+  {
+    "section": "agent_applications",
+    "title": "From Grasping to Speaking: Generative AI-Based Environment-Grounded VR Communication Training for Autistic Individuals",
+    "paper_url": "https://arxiv.org/abs/2607.21769v1",
+    "download_url": "https://arxiv.org/pdf/2607.21769v1.pdf",
+    "year": 2026,
+    "source": "arXiv",
+    "note": "VR communication training study showing autistic trainees and job coaches preferred more environment-grounded LLM agent interaction.",
+    "category": "ASD-specific"
+  },
+  {
+    "section": "agent_applications",
+    "title": "TD-DPO: Difference-Aware Preference Optimization for Mitigating Sycophancy in Clinical Autism Intervention Dialogue",
+    "paper_url": "https://arxiv.org/abs/2607.18304v1",
+    "download_url": "https://arxiv.org/pdf/2607.18304v1.pdf",
+    "year": 2026,
+    "source": "arXiv",
+    "note": "Targets safety in autism intervention dialogue by reducing LLM sycophancy while preserving intervention quality.",
+    "category": "ASD-specific"
+  },
+  {
+    "section": "agent_applications",
+    "title": "Starmate: A Lightweight AI Assistant for Autism Caregivers Developed and Evaluated Through a User-Centered Mixed-Methods Framework",
+    "paper_url": "https://pubmed.ncbi.nlm.nih.gov/42387222/",
+    "year": 2026,
+    "source": "PubMed",
+    "note": "Domain-tuned caregiver assistant with strong empathy and hands-on guidance signals in side-by-side evaluation.",
+    "category": "ASD-specific"
+  },
+  {
+    "section": "agent_applications",
+    "title": "Using Artificial Intelligence to Improve Empathetic Statements in Autistic Adolescents and Adults: A Randomized Clinical Trial",
+    "paper_url": "https://pubmed.ncbi.nlm.nih.gov/39954218/",
+    "year": 2026,
+    "source": "PubMed",
+    "note": "Randomized trial of an LLM-based practice system for improving empathetic responses in autistic adolescents and adults.",
+    "category": "ASD-specific"
+  },
+  {
+    "section": "llm_autism",
+    "title": "The Misclassification of Autistic Writing as AI-Generated",
+    "paper_url": "https://arxiv.org/abs/2607.14729v1",
+    "download_url": "https://arxiv.org/pdf/2607.14729v1.pdf",
+    "year": 2026,
+    "source": "arXiv",
+    "note": "Important bias audit showing autistic writing is more likely to be falsely flagged as AI-generated.",
+    "category": "ASD-specific"
+  },
+  {
+    "section": "llm_autism",
+    "title": "LLMs in Medical Education for Autism Caregivers: A Comparative Evaluation of Accuracy, Readability, Actionability, and Neurodiversity-Affirming Language",
+    "paper_url": "https://pubmed.ncbi.nlm.nih.gov/42512654/",
+    "year": 2026,
+    "source": "PubMed",
+    "note": "Compares major LLMs as autism caregiver education tools across accuracy, readability, actionability, and neurodiversity-affirming language.",
+    "category": "ASD-specific"
+  },
+  {
+    "section": "llm_autism",
+    "title": "Autism-Related Information on Websites and General-Purpose Artificial Intelligence Chatbots: Comparative, Bilingual Study",
+    "paper_url": "https://pubmed.ncbi.nlm.nih.gov/42441724/",
+    "year": 2026,
+    "source": "PubMed",
+    "note": "Useful benchmark of autism information quality across websites and general-purpose AI chatbots in two languages.",
+    "category": "ASD-specific"
+  },
+  {
+    "section": "llm_autism",
+    "title": "Large Language Model-Assisted Annotation Framework for Cross-Platform Analysis of Online Autism Communities: Implications for Parent Education and Digital Support",
+    "paper_url": "https://pubmed.ncbi.nlm.nih.gov/42430199/",
+    "year": 2026,
+    "source": "PubMed",
+    "note": "Shows how LLM-assisted annotation can scale analysis of autism caregiver communities and digital support needs.",
+    "category": "ASD-specific"
+  },
+  {
+    "section": "medical_ai",
+    "title": "Fine-tuning a multimodal large language model for clinician-grade autism behavioral scoring from short home videos",
+    "paper_url": "https://arxiv.org/abs/2606.27484v1",
+    "download_url": "https://arxiv.org/pdf/2606.27484v1.pdf",
+    "year": 2026,
+    "source": "arXiv",
+    "note": "High-signal multimodal LLM paper for scalable autism behavioral scoring and early-assessment support from home videos.",
+    "category": "ASD-specific"
+  },
+  {
+    "section": "medical_ai",
+    "title": "AI-guided stimuli discovery and generation to optimize facial emotion perception studies in autism",
+    "paper_url": "https://arxiv.org/abs/2607.08533v1",
+    "download_url": "https://arxiv.org/pdf/2607.08533v1.pdf",
+    "year": 2026,
+    "source": "arXiv",
+    "note": "Model-guided stimulus selection and generation for sharper autism-versus-neurotypical behavioral separation in emotion perception studies.",
+    "category": "ASD-specific"
+  },
+  {
+    "section": "medical_ai",
+    "title": "Large Language Model Few-Shot Learning for Predicting Individual Treatment Response to Smartphone-Based Mindfulness in Autistic Adults With Anxiety: Secondary Analysis of a Randomized Controlled Trial",
+    "paper_url": "https://pubmed.ncbi.nlm.nih.gov/42490583/",
+    "year": 2026,
+    "source": "PubMed",
+    "note": "Uses LLM few-shot prediction for personalized treatment-response estimation in autistic adults with anxiety.",
+    "category": "ASD-specific"
+  },
+  {
+    "section": "medical_ai",
+    "title": "Early Detection Methods for Autism Spectrum Disorder: From Clinical Screening to Multimodal AI",
+    "paper_url": "https://pubmed.ncbi.nlm.nih.gov/42587613/",
+    "year": 2026,
+    "source": "PubMed",
+    "note": "Recent scoping review of multimodal AI approaches for early ASD detection across behavioral, speech, EEG, fNIRS, and foundation-model pipelines.",
+    "category": "ASD-specific"
+  },
+  {
+    "section": "medical_ai",
+    "title": "From Data to Early Diagnosis: Artificial Intelligence as a Tool to Support Screening and Detection of Autism Spectrum Disorder in Childhood",
+    "paper_url": "https://pubmed.ncbi.nlm.nih.gov/42536257/",
+    "year": 2026,
+    "source": "PubMed",
+    "note": "Recent review emphasizing multimodal AI for childhood ASD screening while clearly framing current real-world validation limits.",
+    "category": "ASD-specific"
+  },
+  {
+    "section": "evolving_methods",
+    "title": "Practice Makes Unsafe: Skill Misevolution in Self-Improving LLM Agents",
+    "paper_url": "https://arxiv.org/abs/2608.12851v1",
+    "download_url": "https://arxiv.org/pdf/2608.12851v1.pdf",
+    "year": 2026,
+    "source": "arXiv",
+    "note": "Useful generic capability paper on how self-improving agents can evolve unsafe reusable skills and how to govern that process.",
+    "category": "Self-evolving / reflection / prompt optimization"
+  },
+  {
+    "section": "skills_workflows",
+    "title": "SkillEvo: Self-Renewing Evolution Gradients from Multi-Turn Interaction Feedback",
+    "paper_url": "https://arxiv.org/abs/2608.13120v1",
+    "download_url": "https://arxiv.org/pdf/2608.13120v1.pdf",
+    "year": 2026,
+    "source": "arXiv",
+    "note": "Useful for evolving reusable skills from multi-turn feedback rather than shallow single-turn evaluation.",
+    "category": "Skills"
+  },
+  {
+    "section": "skills_workflows",
+    "title": "Correct Is Not Governed: Provenance Integrity in Agentic Workflows",
+    "paper_url": "https://arxiv.org/abs/2608.12761v1",
+    "download_url": "https://arxiv.org/pdf/2608.12761v1.pdf",
+    "year": 2026,
+    "source": "arXiv",
+    "note": "Useful workflow-governance paper on preserving provenance, completion evidence, and auditable execution in agent systems.",
+    "category": "Workflow / tool use"
+  },
+  {
+    "section": "memory_systems",
+    "title": "RippleMem: From Isolated Retrieval to Associative Recollection for Long-Term Agent Memory",
+    "paper_url": "https://arxiv.org/abs/2608.13334v1",
+    "download_url": "https://arxiv.org/pdf/2608.13334v1.pdf",
+    "year": 2026,
+    "source": "arXiv",
+    "note": "Associative recollection approach for recovering distributed evidence across long interaction histories.",
+    "category": "Memory"
+  },
+  {
+    "section": "memory_systems",
+    "title": "LycheeMemory V2: Efficient Long-Term Memory for LLM Agents via Semantic Segment-Level Consolidation",
+    "paper_url": "https://arxiv.org/abs/2608.12990v1",
+    "download_url": "https://arxiv.org/pdf/2608.12990v1.pdf",
+    "year": 2026,
+    "source": "arXiv",
+    "note": "Efficient long-term memory design that shifts from turn-level to semantic segment-level consolidation.",
+    "category": "Memory"
+  },
+  {
+    "section": "memory_systems",
+    "title": "MindMemOS: A Portable and Self-Evolving Memory Operating Layer for AI Agents",
+    "paper_url": "https://arxiv.org/abs/2608.12428v1",
+    "download_url": "https://arxiv.org/pdf/2608.12428v1.pdf",
+    "year": 2026,
+    "source": "arXiv",
+    "note": "Portable memory operating layer that combines autonomous memory refinement with continuous skill evolution.",
+    "category": "Memory"
+  },
+  {
+    "section": "memory_systems",
+    "title": "ERSkill: Evolving for Skill-Guided Adaptive Memory Retrieval",
+    "paper_url": "https://arxiv.org/abs/2608.12720v1",
+    "download_url": "https://arxiv.org/pdf/2608.12720v1.pdf",
+    "year": 2026,
+    "source": "arXiv",
+    "note": "Adaptive memory retrieval framework that treats retrieval policies as evolvable agent skills.",
+    "category": "Memory"
+  },
+  {
+    "section": "memory_systems",
+    "title": "Governed Persistent Memory: Source-Bound State Semantics and Fail-Closed Release for Long-Horizon Agents",
+    "paper_url": "https://arxiv.org/abs/2608.12476v1",
+    "download_url": "https://arxiv.org/pdf/2608.12476v1.pdf",
+    "year": 2026,
+    "source": "arXiv",
+    "note": "Important memory-governance paper on source-bound admission, stale/conflicting records, and fail-closed release for long-horizon agents.",
+    "category": "Memory"
   }
 ]
