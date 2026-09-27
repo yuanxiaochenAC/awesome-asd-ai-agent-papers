@@ -1147,5 +1147,61 @@
     "source": "arXiv",
     "note": "Important memory-governance paper on source-bound admission, stale/conflicting records, and fail-closed release for long-horizon agents.",
     "category": "Memory"
+  },
+  {
+    "section": "medical_ai",
+    "title": "A multimodal large language model for evidence-based autism spectrum disorder screening",
+    "paper_url": "https://arxiv.org/abs/2609.16464",
+    "download_url": "https://arxiv.org/pdf/2609.16464.pdf",
+    "year": 2026,
+    "source": "arXiv",
+    "note": "ASDchat combines video, audio, and dialogue with traceable behavioral evidence for evidence-based autism screening across held-out sites.",
+    "category": "ASD-specific"
+  },
+  {
+    "section": "medical_ai",
+    "title": "Machine Learning for Autism Spectrum Disorder Prediction: A Review of Data Augmentation and Feature Selection Techniques",
+    "paper_url": "https://pubmed.ncbi.nlm.nih.gov/42707916/",
+    "year": 2026,
+    "source": "PubMed",
+    "note": "Recent review of data augmentation and feature-selection strategies for machine-learning-based ASD prediction.",
+    "category": "ASD-specific"
+  },
+  {
+    "section": "medical_ai",
+    "title": "Artificial intelligence-assisted autism screening and its implications for public health policy in Indonesia",
+    "paper_url": "https://pubmed.ncbi.nlm.nih.gov/42480293/",
+    "year": 2026,
+    "source": "PubMed",
+    "note": "Connects AI-assisted ASD screening with implementation and public-health policy considerations, useful for deployment-oriented agent design.",
+    "category": "ASD-specific"
+  },
+  {
+    "section": "medical_ai",
+    "title": "A hybrid deep learning framework for early autism screening",
+    "paper_url": "https://pubmed.ncbi.nlm.nih.gov/42740324/",
+    "year": 2026,
+    "source": "PubMed",
+    "note": "New early-screening framework that adds current deep-learning evidence to the clinical AI section.",
+    "category": "ASD-specific"
+  },
+  {
+    "section": "medical_ai",
+    "title": "A Systematic Review and Quality Appraisal of AI-Augmented Intervention Studies for Autistic Individuals",
+    "paper_url": "https://pubmed.ncbi.nlm.nih.gov/42533285/",
+    "year": 2026,
+    "source": "PubMed",
+    "note": "Systematic review assessing the evidence quality of AI-supported interventions for autistic people, important for safe agent deployment.",
+    "category": "ASD-specific"
+  },
+  {
+    "section": "memory_systems",
+    "title": "DRACO: Fine-Grained Credit Assignment with Dynamic Rubrics for Long-Horizon Agent Training",
+    "paper_url": "https://arxiv.org/abs/2609.04094",
+    "download_url": "https://arxiv.org/pdf/2609.04094.pdf",
+    "year": 2026,
+    "source": "arXiv",
+    "note": "Uses dynamic rubrics and fine-grained credit assignment to train long-horizon tool-using agents when direct success labels are unavailable.",
+    "category": "Memory"
   }
 ]
