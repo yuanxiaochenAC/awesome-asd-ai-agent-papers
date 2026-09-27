@@ -1,19 +1,46 @@
 # Awesome ASD AI Agent Papers
 
-Curated project for:
+[![Papers](https://img.shields.io/badge/papers-123-1f6feb.svg)](data/seed_papers.json) [![Focus](https://img.shields.io/badge/focus-ASD%20%2B%20AI%20Agents-0f766e.svg)](#scope) [![Sources](https://img.shields.io/badge/sources-arXiv%20%7C%20PubMed-b45309.svg)](#sources) [![License](https://img.shields.io/badge/license-MIT-111827.svg)](LICENSE)
 
-- AI agent applications in autism spectrum disorder (ASD)
-- LLM and multi-agent systems used in ASD support, intervention, and communication
-- latest ASD medical and clinical AI papers
+> A curated research map for building safer, more useful AI agents for autism spectrum disorder (ASD).
 
-Inspired by projects like [VoltAgent/awesome-ai-agent-papers](https://github.com/VoltAgent/awesome-ai-agent-papers),
-but specialized for the ASD domain.
+This list connects ASD-specific evidence with the general agent capabilities that can make an ASD system more reliable: memory, skills, workflow orchestration, reflection, evaluation, and safe self-improvement.
 
-## What This Repository Covers
+![The evolution landscape of AI agents](assets/agent-evolution-landscape.png)
 
-- AI agent systems for autism intervention, screening, communication, and therapy support
+<p align="center"><em>General agent capability layers provide reusable methods; the ASD sections provide the domain evidence and safety context.</em></p>
+
+## Navigation
+
+| Layer | Papers | What to read for |
+| --- | ---: | --- |
+| [AI Agent Applications In ASD](#agent-applications) | 11 | Direct ASD applications: intervention, communication practice, screening, and caregiver support. |
+| [LLMs, Multi-Agent Systems, And Autism](#llm-autism) | 11 | LLM and multi-agent studies about autism, neurodiversity, bias, and human-AI interaction. |
+| [Latest ASD Medical And Clinical AI Papers](#medical-ai) | 21 | Clinical and medical AI evidence relevant to ASD detection, assessment, intervention, and deployment. |
+| [General Capabilities Helpful For ASD AI Agents: Self-Evolving, Reflection, And Prompt Optimization](#evolving-methods) | 21 | Self-evolution, reflection, prompt optimization, and feedback loops that can improve ASD agents over time. |
+| [General Capabilities Helpful For ASD AI Agents: Skills, Tool-Use, And Workflow](#skills-workflows) | 19 | Reusable skills, tool use, orchestration, and workflow design for reliable ASD agent operation. |
+| [General Capabilities Helpful For ASD AI Agents: Memory And Long-Horizon Ability](#memory-systems) | 32 | Memory, personalization, long-horizon context, and governed state for continuous ASD support. |
+| [General Capabilities Helpful For ASD AI Agents: Recommendation, Collaboration, And Other Agentic Methods](#other-agentic-methods) | 8 | Additional agent architectures, collaboration, routing, evaluation, and safety methods with domain-transfer value. |
+
+## Reading Paths
+
+- **Build an ASD intervention agent:** start with `AI Agent Applications In ASD`, then read `Memory And Long-Horizon Ability` and `Skills, Tool-Use, And Workflow`.
+- **Study clinical reliability:** start with `Latest ASD Medical And Clinical AI Papers`, then compare `LLMs, Multi-Agent Systems, And Autism` for bias, evidence quality, and neurodiversity-affirming design.
+- **Design an improving agent:** start with `Self-Evolving, Reflection, And Prompt Optimization`, then add governed memory and evaluation methods before considering autonomous updates.
+
+## Scope
+
+- AI agent systems for autism intervention, screening, communication, therapy support, and caregiver assistance
 - LLM, multi-agent, chatbot, and agentic workflows designed for autistic users or ASD clinical settings
-- recent ASD medical and clinical AI papers with practical relevance
+- Recent ASD medical and clinical AI papers involving AI, LLMs, multimodal modeling, or decision support
+- General agent methods selected for clear transfer value to ASD systems, not because they mention ASD directly
+
+## Curation Principles
+
+- Each entry has a stable paper link and a short neutral note about its practical relevance.
+- ASD-specific evidence and transferable agent methods are kept in separate layers.
+- Medical papers are research references, not clinical advice or validated diagnostic recommendations.
+- Broad source queries are manually reviewed before inclusion; duplicate titles are removed.
 
 ## Quick Start
 
@@ -25,35 +52,34 @@ python scripts/build_readme.py
 
 Generated candidate files are written to `data/generated/`.
 
-## Scope
-
-- Agent systems for autism intervention, therapy support, social practice, and education
-- Autism-focused LLM evaluation, safety, and bias papers
-- Recent ASD medical and clinical papers involving AI, LLMs, multimodal modeling, or decision support
-
 ## Sources
 
-- arXiv
-- PubMed
-- curated GitHub paper lists
+- [arXiv](https://arxiv.org/)
+- [PubMed](https://pubmed.ncbi.nlm.nih.gov/)
+- [VoltAgent/awesome-ai-agent-papers](https://github.com/VoltAgent/awesome-ai-agent-papers)
+- [masamasa59/ai-agent-papers](https://github.com/masamasa59/ai-agent-papers)
+- [ANative-Lab/Awesome-Self-Evolving-Agents](https://github.com/ANative-Lab/Awesome-Self-Evolving-Agents)
 
 ## Update Workflow
 
-- Use `scripts/fetch_arxiv_asd.py` to collect ASD + AI agent arXiv candidates
-- Use `scripts/fetch_pubmed_asd.py` to collect ASD medical PubMed candidates
-- Review and merge good candidates into `data/seed_papers.json`
-- Run `scripts/build_readme.py` to regenerate this README
+1. Run the arXiv and PubMed collectors to create candidate files.
+2. Check the curated agent lists for new capability-layer papers.
+3. Review titles, dates, links, and ASD transfer value before editing `data/seed_papers.json`.
+4. Run `python scripts/build_readme.py` and verify the generated tables.
 
 ## Repository Structure
 
-- `README.md`: published paper list
+- `README.md`: published research map and tables
 - `data/seed_papers.json`: curated source of truth
 - `data/generated/`: raw candidate outputs from source collectors
+- `assets/agent-evolution-landscape.png`: capability evolution overview figure
 - `scripts/fetch_arxiv_asd.py`: arXiv collector
 - `scripts/fetch_pubmed_asd.py`: PubMed collector
 - `scripts/build_readme.py`: README generator
 
 ## AI Agent Applications In ASD
+
+Direct ASD applications: intervention, communication practice, screening, and caregiver support.
 
 | Paper | Year | Type | Source | Access | Why It Matters |
 | --- | --- | --- | --- | --- | --- |
@@ -71,6 +97,8 @@ Generated candidate files are written to `data/generated/`.
 
 ## LLMs, Multi-Agent Systems, And Autism
 
+LLM and multi-agent studies about autism, neurodiversity, bias, and human-AI interaction.
+
 | Paper | Year | Type | Source | Access | Why It Matters |
 | --- | --- | --- | --- | --- | --- |
 | [When Machines Get It Wrong: Large Language Models Perpetuate Autism Myths More Than Humans Do](https://arxiv.org/abs/2601.22893v3) | 2026 | ASD-specific | arXiv | [Paper](https://arxiv.org/abs/2601.22893v3) / [PDF](https://arxiv.org/pdf/2601.22893v3.pdf) | Directly measures autism-myth endorsement and finds major knowledge fidelity gaps in frontier LLMs. |
@@ -86,6 +114,8 @@ Generated candidate files are written to `data/generated/`.
 | [NeuroBridge: Using Generative AI to Bridge Cross-neurotype Communication Differences through Neurotypical Perspective-taking](https://arxiv.org/abs/2509.23434v1) | 2025 | ASD-specific | arXiv | [Paper](https://arxiv.org/abs/2509.23434v1) / [PDF](https://arxiv.org/pdf/2509.23434v1.pdf) | Generative AI platform for helping neurotypical users experience and reflect on autistic communication styles. |
 
 ## Latest ASD Medical And Clinical AI Papers
+
+Clinical and medical AI evidence relevant to ASD detection, assessment, intervention, and deployment.
 
 | Paper | Year | Type | Source | Access | Why It Matters |
 | --- | --- | --- | --- | --- | --- |
@@ -113,6 +143,8 @@ Generated candidate files are written to `data/generated/`.
 
 ## General Capabilities Helpful For ASD AI Agents: Self-Evolving, Reflection, And Prompt Optimization
 
+Self-evolution, reflection, prompt optimization, and feedback loops that can improve ASD agents over time.
+
 | Paper | Year | Type | Source | Access | Why It Matters |
 | --- | --- | --- | --- | --- | --- |
 | [Tree-based Credit Assignment for Multi-Agent Memory System](https://arxiv.org/abs/2605.04811v1) | 2026 | Self-evolving / reflection / prompt optimization | arXiv | [Paper](https://arxiv.org/abs/2605.04811v1) / [PDF](https://arxiv.org/pdf/2605.04811v1.pdf) | General capability helpful for ASD AI agents: self-evolution, reflection, prompt optimization, and automatic improvement. |
@@ -139,6 +171,8 @@ Generated candidate files are written to `data/generated/`.
 
 ## General Capabilities Helpful For ASD AI Agents: Skills, Tool-Use, And Workflow
 
+Reusable skills, tool use, orchestration, and workflow design for reliable ASD agent operation.
+
 | Paper | Year | Type | Source | Access | Why It Matters |
 | --- | --- | --- | --- | --- | --- |
 | [When Single-Agent with Skills Replace Multi-Agent Systems and When They Fail](https://arxiv.org/abs/2601.04748) | 2026 | Skills | arXiv | [Paper](https://arxiv.org/abs/2601.04748) / [PDF](https://arxiv.org/pdf/2601.04748.pdf) | Useful for building reusable skills, safer tool use, and workflow orchestration in ASD-focused agents. |
@@ -162,6 +196,8 @@ Generated candidate files are written to `data/generated/`.
 | [CUA-Skill: Develop Skills for Computer Using Agent](https://arxiv.org/abs/2601.21123) | 2026 | Skills | arXiv | [Paper](https://arxiv.org/abs/2601.21123) / [PDF](https://arxiv.org/pdf/2601.21123.pdf) | Useful for building reusable skills, safer tool use, and workflow orchestration in ASD-focused agents. |
 
 ## General Capabilities Helpful For ASD AI Agents: Memory And Long-Horizon Ability
+
+Memory, personalization, long-horizon context, and governed state for continuous ASD support.
 
 | Paper | Year | Type | Source | Access | Why It Matters |
 | --- | --- | --- | --- | --- | --- |
@@ -200,6 +236,8 @@ Generated candidate files are written to `data/generated/`.
 
 ## General Capabilities Helpful For ASD AI Agents: Recommendation, Collaboration, And Other Agentic Methods
 
+Additional agent architectures, collaboration, routing, evaluation, and safety methods with domain-transfer value.
+
 | Paper | Year | Type | Source | Access | Why It Matters |
 | --- | --- | --- | --- | --- | --- |
 | [Self-Evolving Recommendation System: End-To-End Autonomous Model Optimization With LLM Agents](https://arxiv.org/abs/2602.10226) | 2026 | Agentic recommendation | arXiv | [Paper](https://arxiv.org/abs/2602.10226) / [PDF](https://arxiv.org/pdf/2602.10226.pdf) | General capability helpful for ASD AI agents: personalization, recommendation, ranking, and adaptive support decisions. |
@@ -213,5 +251,6 @@ Generated candidate files are written to `data/generated/`.
 
 ## Notes
 
-- This repository is designed as a curated reading list, not a fully automatic ranking system.
+- This repository is a curated reading list, not a fully automatic ranking system.
 - PubMed and arXiv queries are intentionally broad; manual review is expected before publishing updates.
+- The evolution landscape figure is a general-agent reference map; it is not an ASD-specific evidence figure.
