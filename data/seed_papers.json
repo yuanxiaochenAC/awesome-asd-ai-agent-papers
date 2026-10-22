@@ -1203,5 +1203,142 @@
     "source": "arXiv",
     "note": "Uses dynamic rubrics and fine-grained credit assignment to train long-horizon tool-using agents when direct success labels are unavailable.",
     "category": "Memory"
+  },
+  {
+    "section": "agent_applications",
+    "title": "Visual Task Modeling and Automated Planning for Humanoid Robots in Education of Individuals with Autism Spectrum Disorder",
+    "paper_url": "https://arxiv.org/abs/2610.27162",
+    "download_url": "https://arxiv.org/pdf/2610.27162.pdf",
+    "year": 2026,
+    "source": "arXiv",
+    "note": "Uses a vision-language model, PDDL planning, and a NAO robot to guide visual Shoebox Tasks used in ASD education.",
+    "category": "ASD-specific"
+  },
+  {
+    "section": "llm_autism",
+    "title": "Towards Automated Clinical Behavioral Coding with Large Language Models: A Case Study Using BOSCC Recordings of Children",
+    "paper_url": "https://arxiv.org/abs/2610.11106",
+    "download_url": "https://arxiv.org/pdf/2610.11106.pdf",
+    "year": 2026,
+    "source": "arXiv",
+    "note": "Evaluates LLMs for speech-related BOSCC coding on 163 recordings and documents where automated autism behavior coding remains unreliable.",
+    "category": "ASD-specific"
+  },
+  {
+    "section": "medical_ai",
+    "title": "Establishing Diagnosis Models for Autism Spectrum Disorder With Auditory Brainstem Response Using Machine Learning Methods",
+    "paper_url": "https://pubmed.ncbi.nlm.nih.gov/42885320/",
+    "year": 2026,
+    "source": "PubMed",
+    "note": "Develops interpretable ABR-based ASD models in 851 children; XGBoost reached 85.9% accuracy while highlighting intensity-dependent neural signals.",
+    "category": "ASD-specific"
+  },
+  {
+    "section": "medical_ai",
+    "title": "Functional Near-Infrared Spectroscopy Combined with Machine Learning for Exploratory Classification of Autism Spectrum Disorder in Young Children",
+    "paper_url": "https://pubmed.ncbi.nlm.nih.gov/42872721/",
+    "year": 2026,
+    "source": "PubMed",
+    "note": "A valuable negative-result study: fNIRS classifiers in young children did not significantly exceed chance or add value beyond age and sex.",
+    "category": "ASD-specific"
+  },
+  {
+    "section": "medical_ai",
+    "title": "Facial Data for Autism Spectrum Disorder Detection Using Machine Learning, Deep Learning, and Emerging Large Language and Vision-Language Models: A Systematic Review",
+    "paper_url": "https://pubmed.ncbi.nlm.nih.gov/42887144/",
+    "year": 2026,
+    "source": "PubMed",
+    "note": "Systematic review of 171 studies covering facial images, video, eye tracking, multimodal data, and emerging LLM/VLM methods for ASD assessment.",
+    "category": "ASD-specific"
+  },
+  {
+    "section": "evolving_methods",
+    "title": "VERSE: Verified Self-Evolving Optimizer for Agent Harnesses",
+    "paper_url": "https://arxiv.org/abs/2610.02616",
+    "download_url": "https://arxiv.org/pdf/2610.02616.pdf",
+    "year": 2026,
+    "source": "arXiv",
+    "note": "Co-evolves an executor harness and its optimizer while using execution-based verification to track fixes and regressions.",
+    "category": "Self-evolving / reflection / prompt optimization"
+  },
+  {
+    "section": "evolving_methods",
+    "title": "AgentEvolver: System-Wide Self-Evolution Through Task Execution",
+    "paper_url": "https://arxiv.org/abs/2610.11613",
+    "download_url": "https://arxiv.org/pdf/2610.11613.pdf",
+    "year": 2026,
+    "source": "arXiv",
+    "note": "Versions prompts, tools, memory, workflows, and other reusable agent components through a common evaluated lifecycle.",
+    "category": "Self-evolving / reflection / prompt optimization"
+  },
+  {
+    "section": "evolving_methods",
+    "title": "Evo^2: Evolving the Evolver through Weight-Harness Co-Evolution",
+    "paper_url": "https://arxiv.org/abs/2610.13025",
+    "download_url": "https://arxiv.org/pdf/2610.13025.pdf",
+    "year": 2026,
+    "source": "arXiv",
+    "note": "Jointly evolves model weights and the agent harness, with strong reported gains and transfer across coding tasks, models, and benchmarks.",
+    "category": "Self-evolving / reflection / prompt optimization"
+  },
+  {
+    "section": "evolving_methods",
+    "title": "RSIFlow: Adaptive Self-Improvement Workflows with an Evolving Meta-Agent",
+    "paper_url": "https://arxiv.org/abs/2610.21791",
+    "download_url": "https://arxiv.org/pdf/2610.21791.pdf",
+    "year": 2026,
+    "source": "arXiv",
+    "note": "Selects improvement workflows from diagnosed bottlenecks and evolves a meta-agent using distilled workflow outcomes and cross-component principles.",
+    "category": "Self-evolving / reflection / prompt optimization"
+  },
+  {
+    "section": "skills_workflows",
+    "title": "It Takes Workflows to Evolve Better Workflows",
+    "paper_url": "https://arxiv.org/abs/2610.01026",
+    "download_url": "https://arxiv.org/pdf/2610.01026.pdf",
+    "year": 2026,
+    "source": "arXiv",
+    "note": "FloWright uses hierarchical rewards to co-evolve the agents that generate and execute multi-agent workflows.",
+    "category": "Workflow / tool use"
+  },
+  {
+    "section": "skills_workflows",
+    "title": "Mining Agent Skills from Production Traces",
+    "paper_url": "https://arxiv.org/abs/2610.05777",
+    "download_url": "https://arxiv.org/pdf/2610.05777.pdf",
+    "year": 2026,
+    "source": "arXiv",
+    "note": "Compares workflow and ontology skill forms mined from production traces with and without reliable outcome labels.",
+    "category": "Skills"
+  },
+  {
+    "section": "memory_systems",
+    "title": "Memento 3: Model-Based Recursive Self-Improvement through Reflective Rulebooks",
+    "paper_url": "https://arxiv.org/abs/2610.11794",
+    "download_url": "https://arxiv.org/pdf/2610.11794.pdf",
+    "year": 2026,
+    "source": "arXiv",
+    "note": "Maintains a revisable natural-language rulebook as persistent memory and verifies compiled world-model updates through exact replay.",
+    "category": "Memory"
+  },
+  {
+    "section": "memory_systems",
+    "title": "LongHarness: Advancing Agentic Reasoning over 100M-Token Corpora via Stateful Evidence Management",
+    "paper_url": "https://arxiv.org/abs/2610.13075",
+    "download_url": "https://arxiv.org/pdf/2610.13075.pdf",
+    "year": 2026,
+    "source": "arXiv",
+    "note": "Coordinates evolving conclusions with traceable evidence state to reduce unbounded retrieval and evidence drift over very large corpora.",
+    "category": "Memory"
+  },
+  {
+    "section": "other_agentic_methods",
+    "title": "VeriHarness: Scaling Agentic Verification for Long-Horizon Tasks",
+    "paper_url": "https://arxiv.org/abs/2610.00972",
+    "download_url": "https://arxiv.org/pdf/2610.00972.pdf",
+    "year": 2026,
+    "source": "arXiv",
+    "note": "Turns the generator model into an evidence-seeking verifier that challenges both disagreement and false consensus across long-horizon rollouts.",
+    "category": "Other agentic"
   }
 ]
